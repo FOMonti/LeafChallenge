@@ -1,6 +1,6 @@
-package main.entidades;
+package entidades;
 
-import main.interfaces.EmpleadoControl;
+import interfaces.EmpleadoControl;
 
 public class Homero implements EmpleadoControl {
 

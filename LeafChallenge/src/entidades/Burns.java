@@ -1,4 +1,4 @@
-package main.entidades;
+package entidades;
 
 public class Burns {
 
